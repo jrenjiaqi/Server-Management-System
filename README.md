@@ -1,7 +1,7 @@
 # Server-Management-System
 
 ## About this Project
-This is a Server Management System in Angular and Java Spring Boot. 
+This is a Server Management System written in Angular and Java Spring Boot. 
 
 The project is based off of an [online tutorial](https://youtu.be/1zCvBCqmUuo) to gain exposure on Spring Boot, Angular, and server management using web applications.
 
