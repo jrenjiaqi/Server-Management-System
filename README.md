@@ -3,7 +3,7 @@
 ## About this Project
 This is a Server Management System written in Angular and Java Spring Boot. 
 
-The project is based off of an [online tutorial](https://youtu.be/1zCvBCqmUuo), undertaken to gain exposure to server management via web applications.
+The project is based off of an [online tutorial](https://youtu.be/1zCvBCqmUuo), undertaken to gain exposure in server management via web applications.
 
 This server management system project author has made efforts to go beyond the tutorial by implementing additional feature to filter by network statuses.
 
